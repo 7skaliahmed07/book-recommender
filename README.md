@@ -124,7 +124,7 @@ streamlit run app.py
 ```bash
 Author: Uzer Ahmed
 Data Scientist
-Email: uzeruideveloper@gmail.com
+Email: skprincecoc786@gmail.com
 
 ```
 

@@ -1,6 +1,6 @@
 '''
 Author: Uzer Ahmed
-Email: uzeruideveloper@gmail.com
+Email: skprincecoc786@gmail.com
 Date: 2024-Sept-20
 '''
 
